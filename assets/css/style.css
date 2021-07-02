@@ -1,0 +1,32 @@
+.profile-img {
+    max-width: 100px;
+    height: auto;
+}
+
+.nav-wrapper{
+    background-color: #32807c;
+}
+
+img {
+    max-width: 500px;
+    height: auto;
+}
+
+#about {
+    height: 850px;
+    align-content: center;
+    justify-content: center;
+}
+
+.center {
+    max-width: 960px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    font-family: 'Special Elite', cursive;
+}
